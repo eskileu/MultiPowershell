@@ -1,3 +1,6 @@
+Start med at vi skiller ut de ulike funksjonene i egne filer og importerer de i en main med menyen. 
+Mer oversiktelig enn å lese ti tonn kode i en fil
+
 Hvilke funksjoner må vi ha på plass?
 - Mest mulig dynamisk slik at vi slipper å endre mye i selve skriptet
 - AD bruk og ikke minst innlesing av AD relatert arbeid fra fil.
@@ -6,4 +9,5 @@ Hvilke funksjoner må vi ha på plass?
 - Exchange relatert?
 - KOM MED MER
 - TextToSpeech
+
  
