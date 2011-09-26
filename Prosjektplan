@@ -1,0 +1,9 @@
+Hvilke funksjoner må vi ha på plass?
+- Mest mulig dynamisk slik at vi slipper å endre mye i selve skriptet
+- AD bruk og ikke minst innlesing av AD relatert arbeid fra fil.
+- Opsjoner på hvordan fil skal leses slik at vi er mest mulig fleksibel i forhold til fil som blir kanskje gitt på eksamen
+- Nettverk konfigurasjon -->  Hent og lagre til fil eller bruke variabler som redigeres før kjøring?
+- Exchange relatert?
+- KOM MED MER
+- TextToSpeech
+ 
