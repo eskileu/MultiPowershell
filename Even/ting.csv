@@ -1,0 +1,7 @@
+SamAccountName,CN,initials,givenName,sn,userPrincipalName,displayName,TelephoneNumber,Description,StreetAddress,department,company,title,physicalDeliveryOfficeName,postalCode,st
+stemei,Stein Meisingseth,S.M,Stein,Meisingseth,Stein.Meisingseth@powershell.hist.no,Stein,73737373,IT-konsulent,Gate1,IT-avdeling,ssm,IT-konsulent,ssm,7070,Trondheim
+hillag,Hilde Lango,H.L,Hilde,Lango,Hilde.Lango@powershell.hist.no,Hilde,80080001,IT-konsulent,Gate 3,IT-avdeling,ssm,IT-konsulent,ssm,7070,Trondheim
+trolie,Trond Lien,T.L,Trond,Lien,Trond.Lien@powershell.hist.no,Trond,80080002,IT-konsulent,Gate 4,IT-avdeling,ssm,IT-konsulent,ssm,7070,Trondheim
+hensop,Henning Sopp,H.S,Henning,Sopp,Henning.Sopp@powershell.hist.no,Henning,80080003,IT-konsulent,Gate 5,IT-avdeling,ssm,IT-konsulent,ssm,7070,Trondheim
+trinlei,Trine Lein,T.L,Trine,Lein,Trine.Lein@powershell.hist.no,Trine,80080004,IT-konsulent,Gate 6,IT-avdeling,ssm,IT-konsulent,ssm,7070,Trondheim
+marfle,Marius Fleis,M.F,Marius,Fleis,Marius.Fleis@powershell.hist.no,Marius,80080005,IT-konsulent,Gate 7,IT-avdeling,ssm,IT-konsulent,ssm,7070,Trondheim
